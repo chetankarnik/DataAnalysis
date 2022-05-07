@@ -1,0 +1,31 @@
+Count of loan_status,Column Labels,,,,,
+Row Labels,MORTGAGE,NONE,OTHER,OWN,RENT,Grand Total
+A,5163,1,24,867,4030,10085
+Charged Off,266,,2,52,282,602
+Current,27,,,4,9,40
+Fully Paid,4870,1,22,811,3739,9443
+B,5232,2,32,930,5824,12020
+Charged Off,594,,6,115,710,1425
+Current,229,,,28,88,345
+Fully Paid,4409,2,26,787,5026,10250
+C,3277,,16,597,4208,8098
+Charged Off,541,,2,109,695,1347
+Current,141,,,18,105,264
+Fully Paid,2595,,14,470,3408,6487
+D,2060,,17,378,2852,5307
+Charged Off,429,,5,82,602,1118
+Current,103,,,15,104,222
+Fully Paid,1528,,12,281,2146,3967
+E,1263,,7,197,1375,2842
+Charged Off,306,,2,51,356,715
+Current,88,,,11,80,179
+Fully Paid,869,,5,135,939,1948
+F,511,,2,66,470,1049
+Charged Off,149,,1,23,146,319
+Current,41,,,5,27,73
+Fully Paid,321,,1,38,297,657
+G,153,,,23,140,316
+Charged Off,42,,,11,48,101
+Current,9,,,2,6,17
+Fully Paid,102,,,10,86,198
+Grand Total,17659,3,98,3058,18899,39717
